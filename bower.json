@@ -13,7 +13,7 @@
   "dependencies": {
     "angular": "1.4.9",
     "angular-sanitize": "1.4.9",
-    "openlayers3": "https://github.com/tombatossals/ol3-compiled.git#3.8.2"
+    "openlayers": "https://github.com/openlayers/ol3/releases/download/v3.9.0/v3.9.0-dist.zip"
   },
   "devDependencies": {
     "jquery": "*",

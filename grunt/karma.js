@@ -9,7 +9,7 @@ module.exports = function (grunt, options) {
             singleRun: true,
             options: {
                 files: [
-                    'bower_components/openlayers3/build/ol-debug.js',
+                    'bower_components/openlayers/ol-debug.js',
                     'bower_components/angular/angular.js',
                     'bower_components/angular-sanitize/angular-sanitize.js',
                     'bower_components/angular-mocks/angular-mocks.js',
@@ -25,7 +25,7 @@ module.exports = function (grunt, options) {
             autoWatch: true,
             options: {
                 files: [
-                    'bower_components/openlayers3/build/ol-debug.js',
+                    'bower_components/openlayers/ol-debug.js',
                     'bower_components/angular/angular.js',
                     'bower_components/angular-sanitize/angular-sanitize.js',
                     'bower_components/angular-mocks/angular-mocks.js',
