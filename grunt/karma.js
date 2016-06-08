@@ -10,6 +10,7 @@ module.exports = function (grunt, options) {
             options: {
                 files: [
                     'bower_components/openlayers/ol-debug.js',
+                    'bower_components/js-polyfills/polyfill.js',
                     'bower_components/angular/angular.js',
                     'bower_components/angular-sanitize/angular-sanitize.js',
                     'bower_components/angular-mocks/angular-mocks.js',
@@ -26,6 +27,7 @@ module.exports = function (grunt, options) {
             options: {
                 files: [
                     'bower_components/openlayers/ol-debug.js',
+                    'bower_components/js-polyfills/polyfill.js',
                     'bower_components/angular/angular.js',
                     'bower_components/angular-sanitize/angular-sanitize.js',
                     'bower_components/angular-mocks/angular-mocks.js',
